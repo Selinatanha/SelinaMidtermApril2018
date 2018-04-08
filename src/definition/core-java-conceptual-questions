@@ -132,6 +132,7 @@ Through reflection we can invoke methods at runtime irrespective of the access s
 
 what is multithreading in java?
 Multithreading in java is a process of executing multiple threads simultaneously. Thread is basically a lightweight sub-process, a smallest unit of processing. Multiprocessing and multithreading, both are used to achieve multitasking.
+
 What is the use of synchronization in Java?
 So there is a need to synchronize the action of multiple threads and make sure that only one thread can access the resource at a given point in time. This is implemented using a concept called monitors. Each object in Java is associated with a monitor, which a thread can lock or unlock.
 What is Framework?
