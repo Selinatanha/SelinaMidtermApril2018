@@ -26,13 +26,21 @@ public class Numbers {
 		storeRandomNumbers(num);
 		ConnectDB connectDB = new ConnectDB();
 		//Selection Sort
-		Sort algo = new Sort();
-		algo.selectionSort(num);
+
+			Random rand = new Random();
+			for(int i=0; i<num.length; i++){
+				num[i] = rand.nextInt(1000000);
+			}
+
+
+
+			Sort algo = new Sort();
+	//	algo.selectionSort(num);
 		long selectionSortExecutionTime = algo.executionTime;
 		System.out.println("Total Execution Time of "+ num.length + " numbers in Selection Sort take: " + selectionSortExecutionTime + " milli sec");
         connectDB.insertDataFromArrayToMySql(num, "selection_sort", "SortingNumbers");
-        List<String> numbers = connectDB.readDataBase("selection_sort", "SortingNumbers");
-        printValue(numbers);
+        //List<String> numbers = connectDB.readDataBase("selection_sort", "SortingNumbers");
+        //printValue(numbers);
 		int n = num.length;
 		randomize (num, n);
 		//Insertion Sort
@@ -68,9 +76,8 @@ public class Numbers {
 			arr[j] = temp;
 		}
 	}
-	public static void printValue(List<String> array){
-		for(String st:array){
-			System.out.println(st);
+	//public static void printValue(List<String> array){
+		//for(String st:array){
+			//System.out.println(st);
 		}
-	}
-}
+

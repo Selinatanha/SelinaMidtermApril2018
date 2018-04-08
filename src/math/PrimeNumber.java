@@ -13,6 +13,31 @@ public class PrimeNumber {
 		 *
 		 */
 
-	}
+				int counter = 0;
+				for (int i = 2; i < 100000; i++) {
+					if (isPrime(i)) {
+						counter++;
+						System.out.println(i);
+					}
+				}
+				System.out.println("Total prime numb er up to thbis point:" + counter);
+			}
 
-}
+			public static boolean isPrime(int number) {
+				if (number % 2 == 0) {
+					return false;
+				}
+				for (int i = 3; i * i <= number; i = i + 2) {
+					if (number % i == 0) {
+						return false;
+
+					}
+				}
+
+				return true;
+
+			}
+		}
+
+
+
