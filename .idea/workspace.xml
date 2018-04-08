@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9771989b-51b3-4e7c-b47c-ddb973a42c7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CodingExamMarch2018.iml" afterPath="$PROJECT_DIR$/CodingExamMarch2018.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/algorithm/Numbers.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/algorithm/Numbers.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/databases/ConnectDB.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/databases/ConnectDB.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/definition/core-java-conceptual-questions" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/definition/core-java-conceptual-questions" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/Factorial.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/Factorial.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/Fibonacci.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/Fibonacci.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/FindMissingNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/FindMissingNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/MakePyramid.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/MakePyramid.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/PrimeNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/math/PrimeNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/parser/ProcessStudentInfo.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/parser/ProcessStudentInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamMarch2018/parser/Student.class" afterPath="$PROJECT_DIR$/out/production/CodingExamMarch2018/parser/Student.class" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" />
-      <change beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
-      <change beforePath="$PROJECT_DIR$/src/math/Factorial.java" afterPath="$PROJECT_DIR$/src/math/Factorial.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Fibonacci.java" afterPath="$PROJECT_DIR$/src/math/Fibonacci.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/MakePyramid.java" afterPath="$PROJECT_DIR$/src/math/MakePyramid.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Pattern.java" afterPath="$PROJECT_DIR$/src/math/Pattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" afterPath="$PROJECT_DIR$/src/math/PrimeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/UnitTestingMath.java" afterPath="$PROJECT_DIR$/src/math/UnitTestingMath.java" />
-    </list>
+    <list default="true" id="9771989b-51b3-4e7c-b47c-ddb973a42c7b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -518,7 +496,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="291" y="81" width="1399" height="828" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -528,7 +505,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
